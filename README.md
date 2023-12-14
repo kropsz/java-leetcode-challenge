@@ -17,7 +17,3 @@ Cada desafio do LeetCode possui sua própria pasta neste repositório. A estrutu
 1. Navegue até a pasta do desafio específico para ver a solução.
 2. Leia o código-fonte e os comentários (caso tenha) para entender a abordagem.
 3. Clone este repositório para o seu ambiente local, se desejar testar ou modificar as soluções.
-
-
-
-Happy coding!
